@@ -1,0 +1,22 @@
+KPI's:
+Total Calls
+Overall customer satisfaction/ By % done
+Average customer satisfaction
+Overall calls answered/abandoned 
+Overall calls Unresolved/Resolved Calls 
+The average speed of answer
+First Call Resolution Rate
+
+Insights:
+
+Total Calls were highest for Streaming at 1022, followed by Technical Support and Payment Related.
+The average Satisfaction rating has decreased over three months. January brought the highest satisfaction rating and March the lowest.
+The percentage of issues resolved in January was the highest, with a dip in February. It increased again in March.
+Most of the Satisfaction ratings from each call are 3 and 4.
+﻿Resolved Calls and Unresolved Calls The gap was the most when the Topic was Technical Support 667 and the lower was Contract Related 629.
+The call resolution rate of Dan is the highest, even though the average speed of his answers is moderate compared to those of Joe and Martha. 
+The difference between the Total calls answered, and the Total calls Unanswered was the highest when the Agent was Dan when the Total calls answered were 413, higher than the Total calls Unanswered, and the lowest was Diane at 369.
+The highest satisfaction rate was Jim at 1819, and the lowest was Joe at 1612.
+Joe's average answer speed is the highest among all, and his rate of calls resolved at 2nd last position. He is in the 2nd position in the call resolution rate.
+Diane's average answer speed is the lowest among all, and her rate of calls resolved at the 3rd last position. She is in the last in the call resolution rate.
+﻿﻿Jim had the highest Total Calls at 666, followed by Martha, Dan, and Diane. Stewart had the lowest average Total Calls at 582.
